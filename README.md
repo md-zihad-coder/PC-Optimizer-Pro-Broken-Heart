@@ -73,7 +73,7 @@ python main.py
 
 The application has been successfully packaged and published on the **Microsoft Store**.
 
-🔗 **Microsoft Store:** Add your Microsoft Store link here.
+🔗 **Microsoft Store:** https://apps.microsoft.com/detail/9PBCP76MZ5KK?hl=en-us&gl=BD&ocid=pdpshare
 
 ## 🖼️ Screenshots
 
